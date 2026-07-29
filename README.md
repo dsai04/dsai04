@@ -51,6 +51,12 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 
 ## 📌 Featured Projects
 
+### 🚗 [Customer Segmentation & Purchase Behavior Analysis](https://github.com/dsai04/Customer_Segmentation_-_Purchase_Behavior_Analysis)
+**Python · Pandas · Matplotlib · Seaborn**
+- Cleaned and standardized a 1,581-record automobile dataset (14 variables) by resolving inconsistent categories and imputing missing values using rule-based logic and statistical methods.
+- Found female customers were ~5× more likely to purchase SUVs than male customers (≈52% vs. ≈10%), while salaried men preferred Sedans over SUVs by 3.4:1, disproving a stakeholder targeting assumption.
+- Profiled customer preferences across demographics, income, loans, and household characteristics using 25+ visualizations, delivering actionable insights for customer segmentation and marketing strategy.
+
 ### 📊 [Employee Performance & Workforce Analysis](https://github.com/dsai04/Employee_performance_analysis)
 **Python · Pandas · Seaborn · Power BI**
 - Identified 1,223 employees (40.8% of active workforce) as a flight-risk cohort: 5+ year tenure, strong ratings, zero promotions
