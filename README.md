@@ -122,19 +122,6 @@ Relevant coursework: Python Programming, SQL, Data Analytics and Modeling
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dsai04&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dsai04&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsai04&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 📫 Let's Connect
