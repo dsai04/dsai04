@@ -66,7 +66,7 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 ### 🛍️ [Amazon Sales Data Analysis](https://github.com/dsai04/Amazon_Sales)
 **Python · Pandas · SQL · Matplotlib · Jupyter Notebook**
 - Found zero overlap between the Top 10 most-discounted and Top 10 highest-rated categories across 1,400+ items — deep discounts drive volume, not satisfaction
-- Discovered budget-tier items consistently outrated premium-tier items, pointing to an expectation-calibration effect
+- Found premium-tier products achieved the highest average rating (4.11/5) versus budget-tier products (4.04/5), challenging the assumption that lower-priced products receive better customer ratings.
 - Built a weighted rating (rating × review volume) to rank categories more accurately than raw star ratings
 
 ### 📈 [Data Professional Survey Dashboard](https://github.com/dsai04/Data-professional-survey-dashboard)
