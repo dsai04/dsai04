@@ -59,7 +59,7 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 
 ### 📊 [Employee Performance & Workforce Analysis](https://github.com/dsai04/Employee_performance_analysis)
 **Python · Pandas · Seaborn · Power BI**
-- Identified 1,223 employees (40.8% of active workforce) as a flight-risk cohort: 5+ year tenure, strong ratings, zero promotions
+- Identified 1,223 employees (49.8% of active workforce of 2,458) as a flight-risk cohort: 5+ year tenure, strong ratings, zero promotions
 - Found attrition spread across *all* performance bands (PIP: 27%, Exceeds: 17%) — a systemic retention issue, not a performance management one
 - Built a 4-page Power BI dashboard on top of a Python pipeline that ranked 3,000 records by salary using window functions
 
