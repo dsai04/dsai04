@@ -45,11 +45,18 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 
 **Core Skills**
 
-`EDA` `Statistical Analysis` `Root Cause Analysis` `Time Series` `ETL` `Data Validation` `Data Storytelling` `KPI Reporting` `Relational Database Design`
+`EDA` `Statistical Analysis` `Root Cause Analysis` `Linear Regression` `Model Evaluation` `Time Series` `ETL` `Data Validation` `Data Storytelling` `KPI Reporting` `Relational Database Design`
 
 ---
 
 ## 📌 Featured Projects
+
+### 🎥 [ShowTime OTT First-Day Viewership Drivers](https://github.com/dsai04/ShowTime_OTT_Viewership_Drivers)
+**Python · Pandas · Statsmodels · Scikit-learn · Matplotlib · Seaborn**
+- Analyzed 1,000 OTT titles in Python to identify viewership drivers; trailer views had the strongest correlation with first-day views (r = 0.75).
+- Built an OLS regression model achieving 76.6% test R2, 9.0% MAPE, and ~41K-view MAE on a 30% test set; identified platform visitors, trailer views, major sports events, and release day as significant predictors.
+- Found major sports events associated with ~60K lower first-day views and Saturday releases with ~58K higher views vs. Friday, controlling for other factors.
+- Validated linear regression assumptions using VIF, residual analysis, Shapiro-Wilk, Durbin-Watson, and Goldfeld-Quandt tests; found no significant multicollinearity or heteroscedasticity.
 
 ### 🚗 [Customer Segmentation & Purchase Behavior Analysis](https://github.com/dsai04/Customer_Segmentation_-_Purchase_Behavior_Analysis)
 **Python · Pandas · Matplotlib · Seaborn**
