@@ -51,6 +51,12 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 
 ## 📌 Featured Projects
 
+### 🛂 [EasyVisa: Predicting Employment Visa Certification](https://github.com/dsai04/EasyVisa)
+**Python · Pandas · Numpy · imbalanced-learn, · Scikit-learn · Matplotlib · Seaborn** 
+- Built a classifier on 25,480 visa applications to predict Certified vs Denied. Certification rates ranged from 87.2% for Doctorate holders to 34.0% for High School.
+- Compared 5 algorithms (Decision Tree, Random Forest, Bagging, AdaBoost, Gradient Boosting) on original, SMOTE and undersampled data.
+- Tuned a Random Forest with RandomizedSearchCV (5-fold CV), reaching 73.7% accuracy, 0.807 F1 and 0.768 ROC-AUC.
+
 ### 🏨 [INN Hotels Group: Predicting Booking Cancellations](https://github.com/dsai04/Inn-Hotels)
 **Python · Pandas · Numpy · Statsmodels · Scikit-learn · Matplotlib · Seaborn** 
 - Analyzed 36,275  hotel bookings in Python to find cancellation drivers: 32.8% of bookings were cancelled, versus only 1.7% for repeat guests.
