@@ -51,6 +51,13 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 
 ## 📌 Featured Projects
 
+### 🏨 [INN Hotels Group: Predicting Booking Cancellations](https://github.com/dsai04/Inn-Hotels)
+**Python · Pandas · Numpy · Statsmodels · Scikit-learn · Matplotlib · Seaborn** 
+- Analyzed 36,275  hotel bookings in Python to find cancellation drivers: 32.8% of bookings were cancelled, versus only 1.7% for repeat guests.
+- Compared a logistic regression baseline (80.3% accuracy) with four decision trees. The post-pruned tree reached 88.3% test accuracy and caught ~79% of actual cancellations.
+- Found lead time was the top predictor (~40% importance) and used it to propose risk-based cancellation and refund tiers. 
+
+
 ### 🎥 [ShowTime OTT First-Day Viewership Drivers](https://github.com/dsai04/ShowTime_OTT_Viewership_Drivers)
 **Python · Pandas · Statsmodels · Scikit-learn · Matplotlib · Seaborn**
 - Analyzed 1,000 OTT titles in Python to identify viewership drivers; trailer views had the strongest correlation with first-day views (r = 0.75).
