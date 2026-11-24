@@ -118,8 +118,10 @@ I'm a data analyst with a mechanical engineering background — which means I wa
 ---
 
 ## 💼 Experience
-**Sourcing & Packaging Optimization Intern** — Grindwell Norton Ltd · *Sep 2025 - Ongoing*
-- Vetting raw-material suppliers and building a structured comparison framework to support ongoing packaging optimization trials.
+**Sourcing & Packaging Optimization Intern** — Grindwell Norton Ltd · *Sep 2026 - Ongoing*
+- Supporting ongoing packaging optimization projects through coordination, implementation support, and progress monitoring.
+- Evaluating potential raw-material suppliers based on multiple factors (pricing, quality, MOQ).
+- Researching and identifying suitable procured aggregators based on organizational sourcing requirements.
 
 **Data & Operations Intern** — Kennametal India Ltd · *Jul 2025 – Sep 2025*
 - Built an Excel lookup tool (XLOOKUP, INDEX-MATCH) consolidating 3 manufacturing datasets across 1,000+ parts, replacing manual cross-referencing
